@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm add:*)",
+      "Bash(where java:*)",
+      "Read(//c/Program Files/**)",
+      "Bash(xargs grep:*)"
+    ]
+  }
+}
